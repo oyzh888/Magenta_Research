@@ -1,0 +1,4 @@
+*.pyc
+/bazel-*
+.ipynb_checkpoints/
+*.swp
